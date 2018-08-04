@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
-
 "use strict";
+
 const minNumber = 0;
 const maxNumber = 50;
 //Pick a random number between minNumber and maxNumber
@@ -19,3 +19,4 @@ for (let i = 0; i < 5; i++) {
     alert("Too high!");
   }
 }
+
